@@ -1,0 +1,2 @@
+# PDF_Batch_Replacement
+因为经常要批量替换pdf内的文字内容，wps不支持，acrobat pro买不起。所以自己用TRAE倒腾了一个支持拖拽上传和GUI界面的PDF文本替换工具。
